@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "CV"
+    url: http://krishnapsrinivasan.github.io/files/Krishna_CV.pdf
+    
+  - title: "Code"
+    url: /code/
+    
+#  - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+#  - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+#  - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+#  - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
+#  - title: "Guide"
     url: /markdown/
