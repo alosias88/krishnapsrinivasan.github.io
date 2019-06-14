@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Email: [kprasad@povertyactionlab.org](kprasad@povertyactionlab.org)
+Email: kprasad@povertyactionlab.org
 
 Phone: +91-9833448966
 
